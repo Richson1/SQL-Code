@@ -19,11 +19,11 @@ Salary int
 
 Table 1 Insert:
 Insert into EmployeeDemographics VALUES
-(1001, 'Jim', 'Halpert', 30, 'Male'),
-(1002, 'Pam', 'Beasley', 30, 'Female'),
-(1003, 'Dwight', 'Schrute', 29, 'Male'),
+(1001, 'Richson', 'Owusu', 28, 'Male'),
+(1002, 'Anita', 'Kersey', 27, 'Female'),
+(1003, 'Bright', 'Schrute', 29, 'Male'),
 (1004, 'Angela', 'Martin', 31, 'Female'),
-(1005, 'Toby', 'Flenderson', 32, 'Male'),
+(1005, 'Joseph', 'Flenderson', 32, 'Male'),
 (1006, 'Michael', 'Scott', 35, 'Male'),
 (1007, 'Meredith', 'Palmer', 32, 'Female'),
 (1008, 'Stanley', 'Hudson', 38, 'Male'),
